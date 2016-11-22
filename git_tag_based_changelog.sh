@@ -1,7 +1,7 @@
 #!/bin/sh
 ############################################################
 # Searches all tags in Git and commits between them with   #
-# prefix FIX: or FEATURE: puts in json. Example:	       #
+# prefix FIX: or FEATURE: puts in json. Example:	   #
 # "v1.1.1":{"fixes":["commit1"], features:[commit2]}	   #
 ############################################################
 
